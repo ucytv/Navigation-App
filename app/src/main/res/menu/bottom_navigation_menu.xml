@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@id/homepageFragment"
+            android:icon="@drawable/home_icon_red"
+            android:title="@string/home" />
+
+        <item
+            android:id="@id/subscriptionFragment"
+            android:icon="@drawable/subscription_icon_red"
+            android:title="@string/subscription" />
+
+        <item
+            android:id="@id/libraryFragment"
+            android:icon="@drawable/library_icon_red"
+            android:title="@string/library" />
+
+    </group>
+</menu>
+
+

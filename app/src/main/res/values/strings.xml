@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stay_home_eng">Stay Home!</string>
+    <string name="stay_home_tr">Evde Kal!</string>
+    <string name="subscribe_eng">Subscribe!</string>
+    <string name="subscribe_tr">Abone Ol!</string>
+    <string name="library_eng">Read a book!</string>
+    <string name="library_tr">Oku çocuğum...</string>
+    <string name="channel">Kanalınız/Your Channel</string>
+    <string name="membership">Üyelikler/Memberships</string>
+    <string name="settings">Ayarlar/Settings</string>
+    <string name="home">Anasayfa</string>
+    <string name="subscription">Abonelik</string>
+    <string name="library">Kitaplık</string>
+    <string name="ucy_name">UCY TV</string>
+    <string name="ucy_website">ugurcanyaman.com</string>
+
+
+</resources>

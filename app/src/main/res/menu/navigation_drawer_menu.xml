@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/channel_menu"
+            android:icon="@drawable/channel_icon_red"
+            android:title="@string/channel" />
+
+        <item
+            android:id="@+id/membership_menu"
+            android:icon="@drawable/memberships_icon_red"
+            android:title="@string/membership" />
+
+        <item
+            android:id="@+id/settings_menu"
+            android:icon="@drawable/settings_icon_red"
+            android:title="@string/settings" />
+    </group>
+</menu>
+
