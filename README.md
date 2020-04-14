@@ -6,5 +6,5 @@ You can use Navigation View and Bottom Navigation View tools together through Na
 
 # Gösterim/Demo
 
-
+![navigation_menus](https://user-images.githubusercontent.com/37077627/79214990-cb838180-7e53-11ea-9e42-6e380a74837f.png)
 
